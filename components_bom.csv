@@ -1,0 +1,22 @@
+Item,Designator,Component_Name,Value_Rating,Footprint_Package,Circuit_Qty_Required,Order_Pack_Qty,Pack_Price_INR,Supplier_Name,Supplier_Link
+1,J1,AC Mains Input Wire Joint,220V-240V AC,Double-Hole Zero PCB Anchor,1,1,0.00,In-House / Workbench Wire,N/A (Direct Mains Cable Solder Joint)
+2,F1,Fast-Acting Glass Cartridge Fuse,1A 250V (5x20mm),5x20mm Cartridge,1,20,199.00,Electronic Spices / Amazon.in,https://www.amazon.in/s?k=Electronic+Spices+1a+250v+5mm+X+20mm+Fast+Acting+Glass+Tube+Cartridge+Fuse+Pack+of+20pcs
+3,H1,PCB Mount Fuse Holder with Cover,BLX-A (For 5x20mm),BLX-A Through-Hole,1,10,160.00,JIVITH / Amazon.in,https://www.amazon.in/s?k=JIVITH+BLX-A+PCB+Mount+Fuse+Holder+with+Removable+Protective+Cover+Pack+of+10
+4,RV1,Metal Oxide Varistor (MOV),07D471K (470V Clamp),Radial Disc 7mm,1,20,155.00,GoBagee / Amazon.in,https://www.amazon.in/s?k=GoBagee+Branded+20+pics+MOV+Metal+Oxide+Varistor+7D+471K
+5,TH1,Inrush Current Limiting NTC,10D-9 (10 Ohm Cold),Radial Disc 9mm,1,10,119.00,JIVITH / Amazon.in,https://www.amazon.in/s?k=JIVITH+NTC+10D-9+Thermistor+10+Ohm+9mm+Inrush+Current+Limiter+Pack+of+10
+6,Q1,Sensitive Gate TRIAC,BT136-600E (4A 600V),TO-220AB Through-Hole,1,5,249.00,Rahul Electronics / Amazon.in,https://www.amazon.in/s?k=Rahul+Electronics+BT136-600E+BT136-600+Triac+Thyristor+4A+600V+Pack+of+5pcs
+7,D5,Bidirectional Trigger DIAC,DB3 (32V Vbo / 2A Peak),DO-35 Axial Glass,1,20,125.00,DEPOKE / Amazon.in,https://www.amazon.in/s?k=DEPOKE+Pack+of+20+pcs+DB3+DIAC+Bilateral+Bidirectional+Trigger+Diodes
+8,RV2,Rotary Potentiometer with Knob,500K Ohm Linear,Round Shaft Panel Mount,1,4,179.00,Electronic Spices / Amazon.in,https://www.amazon.in/s?k=Electronic+Spices+500K+3+Pin+Round+Shaft+Rotary+Potentiometer+Volume+Pot+500K+with+Knob+Pack+of+4
+9,R1,Carbon Film Resistor,4.7K Ohm 1W (+/-5%),Axial Lead 1W,1,10,189.00,Anil Electronics / Amazon.in,https://www.amazon.in/s?k=Anil+Electronics+4.7K+Ohm+1+Watt+Resistor+Pack+of+10
+10,C1,Radial Dipped Film Capacitor,0.1uF 630V (104K),Radial Polyester Film,1,10,109.00,JIVITH / Amazon.in,https://www.amazon.in/s?k=JIVITH+104K+630V+Radial+Dipped+Film+Capacitor+0.1uF+Polyester+Capacitor+Pack+of+10
+11,R_LDR1,Light Dependent Resistor (LDR),5mm Photoresistor,Radial 2-Pin 5mm,1,25,138.57,Charohm / Amazon.in,https://www.amazon.in/dp/B0FQ331CKX
+12,SW1,Mini Rocker Switch SPST,2-Pin ON-OFF 250V AC,Panel Snap-in (15x10mm),1,10,179.00,Electronic Spices / Amazon.in,https://www.amazon.in/s?k=Mini+Rocker+Switch+White+2+Pin+SPST+ON-OFF+250V+PACK+OF+10
+13,SW2,Mini Rocker Switch SPST,2-Pin ON-OFF 250V AC,Panel Snap-in (15x10mm),1,10,0.00,Electronic Spices / Amazon.in,https://www.amazon.in/s?k=Mini+Rocker+Switch+White+2+Pin+SPST+ON-OFF+250V+PACK+OF+10
+14,D1-D4,Silicon Rectifier Diodes,1N4007 (1A 1000V),DO-41 Axial,4,50,94.00,Electronic Spices / Amazon.in,https://www.amazon.in/s?k=Electronic+Spices+1N4007+1a+1000v+Inverse+Voltage+Rectifier+Diodes+Pack+of+50pcs
+15,R2 R4,High Voltage Bleeder Resistor,470K Ohm 1W (+/-5%),Axial Lead 1W,2,10,189.00,Anil Electronics / Amazon.in,https://www.amazon.in/s?k=Anil+Electronics+470K+Ohm+1+Watt+Resistor+Pack+of+10
+16,R3,Fusible Ceramic Cement Resistor,100 Ohm 5W,Radial/Axial Cement 5W,1,5,99.00,Electronic Spices / Amazon.in,https://www.amazon.in/s?k=Electronic+Spices+100+Ohm+5+Watt+Fusible+Ceramic+Cement+Power+Resistor+Pack+of+5pcs
+17,C2,High Voltage Electrolytic Cap,100uF 450V 85C,Radial Can Through-Hole,1,1,269.00,SAMWHA / Amazon.in,https://www.amazon.in/s?k=100uF+450V+Electrolytic+Capacitor+85C+SAMWHA
+18,C3,High Voltage Electrolytic Cap,47uF 450V,Radial Can Through-Hole,1,2,153.00,R&D / Amazon.in,https://www.amazon.in/s?k=47UF+450V+ELECTROLYTIC+CAPACITOR+Pack+of+2
+19,R_EXP,Carbon Film Resistor (Spare),47K Ohm 1W (+/-5%),Axial Lead 1W,0,10,189.00,Anil Electronics / Amazon.in,https://www.amazon.in/s?k=Anil+Electronics+47K+Ohm+1+Watt+Resistor+Pack+of+10
+20,PCB1,General Purpose Prototype Board,7.5 x 10 cm Single-Sided,Phenolic Dot Grid (2.54mm),1,4,169.00,UNIVERSAL HUB / Amazon.in,https://www.amazon.in/s?k=UNIVERSAL+HUB+4PCS+7.5X10CM+General+Purpose+Printed+Mini+Zero+PCB
+21,LOAD1,Waterproof SMD LED Rope Light,30 Meter 220V 10W Multi,Flexible Sealed Tube,1,1,853.00,MoonlitDreams / Amazon.in,https://www.amazon.in/dp/B0HH3TVCW8
