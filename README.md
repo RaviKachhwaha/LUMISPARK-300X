@@ -1,0 +1,1 @@
+LumiSpark-300X is a hand-wired Zero PCB power conditioner and 3-mode driver for 220V LED strips. It integrates surge clamping, soft-start inrush limiting, capacitive brownout hold-up fade-out, dusk-to-dawn LDR auto-lighting, and switchable 50Hz sparkle shimmer into one compact board.
