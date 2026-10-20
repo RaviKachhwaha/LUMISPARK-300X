@@ -15,4 +15,4 @@ Item,Designator,Component_Name,Value_Rating,Footprint_Package,Circuit_Qty_Requir
 14,R3,Fusible Ceramic Cement Resistor,100 Ohm 5W,Radial/Axial Cement 5W,1,5,99.00,[Amazon India](https://www.amazon.in/dp/B0BDZ9L9CP/?coliid=I11DDVBD3JPP4K&colid=1IN8DAVAVKS1Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im)
 15,C2,High Voltage Electrolytic Cap,100uF 450V 85C,Radial Can Through-Hole,1,1,269.00,[Amazon India](https://www.amazon.in/dp/B0F48J9PVX/?coliid=I3M7SI3O6KLJPY&colid=1IN8DAVAVKS1Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im)
 16,C3,High Voltage Electrolytic Cap,47uF 450V,Radial Can Through-Hole,1,2,153.00,[Amazon India](https://www.amazon.in/dp/B0CVDV11L2/?coliid=I2F9OR69NVDBOD&colid=1IN8DAVAVKS1Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im)
-17,R_EXP,Carbon Film Resistor (Spare),47K Ohm 1W (+/-5%),Axial Lead 1W,0,10,189.00,[Amazon India](https://www.amazon.in/dp/B0FMXLP6QF/?coliid=I3B02556ITWTGX&colid=1IN8DAVAVKS1Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im)
+17,R_EXP,Carbon Film Resistor (Spare),47K Ohm 1W (+/-5%),Axial Lead 1W,1,10,189.00,[Amazon India](https://www.amazon.in/dp/B0FMXLP6QF/?coliid=I3B02556ITWTGX&colid=1IN8DAVAVKS1Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im)
