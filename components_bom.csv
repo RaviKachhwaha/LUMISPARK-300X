@@ -1,7 +1,7 @@
 Item,Designator,Component_Name,Value_Rating,Footprint_Package,Circuit_Qty_Required,Order_Pack_Qty,Pack_Price_INR,Supplier
 1,F1,Fast-Acting Glass Cartridge Fuse,1A 250V (5x20mm),5x20mm Cartridge,1,20,199.00,[Amazon India](https://www.amazon.in/dp/B0BHHLWKCW/?coliid=I2WOCHKR7KF99V&colid=1IN8DAVAVKS1Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 2,H1,PCB Mount Fuse Holder with Cover,BLX-A (For 5x20mm),BLX-A Through-Hole,1,10,160.00,[Amazon India](https://www.amazon.in/dp/B0HC3LGJFV/?coliid=I11URDI1CFRGSF&colid=1IN8DAVAVKS1Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im)
-3,RV1,Metal Oxide Varistor (MOV),07D471K (470V Clamp),Radial Disc 7mm,1,20,155.00,[Amazon India]
+3,RV1,Metal Oxide Varistor (MOV),07D471K (470V Clamp),Radial Disc 7mm,1,20,155.00,[Amazon India](https://www.amazon.in/dp/B094NRZDC8/?coliid=I2NGADGZ5Z9CTU&colid=1IN8DAVAVKS1Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im)
 4,TH1,Inrush Current Limiting NTC,10D-9 (10 Ohm Cold),Radial Disc 9mm,1,10,119.00,[Amazon India](https://www.amazon.in/dp/B0HDCXCSQ5/?coliid=I39GP4D47FDWEX&colid=1IN8DAVAVKS1Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 5,Q1,Sensitive Gate TRIAC,BT136-600E (4A 600V),TO-220AB Through-Hole,1,5,249.00,[Amazon India](https://www.amazon.in/dp/B0G1KM686V/?coliid=ILJKUN6OZPWXP&colid=1IN8DAVAVKS1Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im)
 6,D5,Bidirectional Trigger DIAC,DB3 (32V Vbo / 2A Peak),DO-35 Axial Glass,1,20,125.00,[Amazon India](https://www.amazon.in/dp/B0CHQVQWNP/?coliid=I3BK71S6TE4RG6&colid=1IN8DAVAVKS1Z&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im)
