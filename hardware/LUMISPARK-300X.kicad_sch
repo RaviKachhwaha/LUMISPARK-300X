@@ -2532,10 +2532,10 @@
 		)
 	)
 	(junction
-		(at 152.4 60.96)
+		(at 68.58 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "03325a9c-ae79-4964-b2a1-00ca4b80c252")
+		(uuid "12657c09-b00a-4744-9d3d-725e94aceb07")
 	)
 	(junction
 		(at 39.37 92.71)
@@ -2548,6 +2548,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2f48301c-e0bc-4458-97ff-9d553667a541")
+	)
+	(junction
+		(at 142.24 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3050c70f-cc82-44da-97ce-683788529110")
 	)
 	(junction
 		(at 90.17 40.64)
@@ -2592,10 +2598,22 @@
 		(uuid "56e2ca5b-8b21-495f-b267-e0e6e398615a")
 	)
 	(junction
+		(at 62.23 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b66b1ad-daa3-476e-aa98-a3277ea20f2c")
+	)
+	(junction
 		(at 109.22 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "71ca740a-472d-4e13-98af-b8e59ab2e6a5")
+	)
+	(junction
+		(at 151.13 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78df93b0-b70f-4fc8-8ef1-0ac443e9c282")
 	)
 	(junction
 		(at 19.05 128.27)
@@ -2622,16 +2640,16 @@
 		(uuid "aa09c7ab-c2b6-4e68-a6d5-0c19ffc74743")
 	)
 	(junction
+		(at 67.31 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "acd1091e-3a05-4acc-9bb2-2e57b3b30363")
+	)
+	(junction
 		(at 176.53 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bfc56996-cfe8-4354-9844-2ac63c1bbeb6")
-	)
-	(junction
-		(at 62.23 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d0b91888-439e-4165-b3c6-6805f9bbb926")
 	)
 	(junction
 		(at 173.99 60.96)
@@ -2731,7 +2749,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 31.75) (xy 67.31 58.42)
+			(xy 67.31 31.75) (xy 67.31 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2818,6 +2836,16 @@
 			(type default)
 		)
 		(uuid "21d42605-1096-4c80-8e9d-0c2ba575e843")
+	)
+	(wire
+		(pts
+			(xy 142.24 25.4) (xy 142.24 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21f825db-18af-4383-85dd-a6a1b1f0ffc3")
 	)
 	(wire
 		(pts
@@ -2951,6 +2979,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 60.96) (xy 151.13 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43e50e82-8971-4fa0-a8b2-721e0d5133cf")
+	)
+	(wire
+		(pts
 			(xy 55.88 60.96) (xy 55.88 58.42)
 		)
 		(stroke
@@ -2981,6 +3019,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 25.4) (xy 142.24 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4937ddf9-eec2-48f7-a005-167d80951300")
+	)
+	(wire
+		(pts
 			(xy 38.1 68.58) (xy 38.1 62.23)
 		)
 		(stroke
@@ -2988,6 +3036,16 @@
 			(type default)
 		)
 		(uuid "4b78a918-257c-4657-9a0b-5382f5bb65ed")
+	)
+	(wire
+		(pts
+			(xy 77.47 19.05) (xy 119.38 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b9802b8-4c72-48e4-9967-12c5de20bba6")
 	)
 	(wire
 		(pts
@@ -3011,6 +3069,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 31.75) (xy 134.62 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53c3e6e6-971e-4a59-9a54-f246aa348912")
+	)
+	(wire
+		(pts
 			(xy 109.22 49.53) (xy 133.35 49.53)
 		)
 		(stroke
@@ -3018,6 +3086,26 @@
 			(type default)
 		)
 		(uuid "588f08d0-7189-4d37-a515-edc9bb8be12f")
+	)
+	(wire
+		(pts
+			(xy 119.38 31.75) (xy 134.62 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5938e517-f2bb-4b63-9592-d4aeccbeb43f")
+	)
+	(wire
+		(pts
+			(xy 142.24 25.4) (xy 143.51 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b6c0117-43d2-41da-a796-3b436eb67066")
 	)
 	(wire
 		(pts
@@ -3051,6 +3139,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 21.59) (xy 72.39 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b46cfba-4ee2-46f2-92f8-3bc034da089b")
+	)
+	(wire
+		(pts
 			(xy 72.39 125.73) (xy 72.39 121.92)
 		)
 		(stroke
@@ -3061,6 +3159,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 21.59) (xy 68.58 12.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7176c3aa-3a76-4ab1-bc38-638a2b82d01f")
+	)
+	(wire
+		(pts
 			(xy 44.45 53.34) (xy 44.45 59.69)
 		)
 		(stroke
@@ -3068,6 +3176,26 @@
 			(type default)
 		)
 		(uuid "7282fe44-22af-41f0-9481-24b2fe4370c6")
+	)
+	(wire
+		(pts
+			(xy 67.31 38.1) (xy 67.31 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75b3f905-0eca-4bc3-9ec5-83fbcdf5099f")
+	)
+	(wire
+		(pts
+			(xy 68.58 12.7) (xy 123.19 12.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79c33a74-ab47-4a8b-9ad4-4d3bfc0837de")
 	)
 	(wire
 		(pts
@@ -3088,6 +3216,26 @@
 			(type default)
 		)
 		(uuid "7f5625de-2043-46aa-b492-663dd7cee158")
+	)
+	(wire
+		(pts
+			(xy 134.62 21.59) (xy 135.89 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83b70cc3-4295-4fa6-94c8-99fee583b298")
+	)
+	(wire
+		(pts
+			(xy 119.38 19.05) (xy 119.38 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85103fcf-6c5c-47f2-89e5-6a554853f821")
 	)
 	(wire
 		(pts
@@ -3131,16 +3279,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 60.96) (xy 173.99 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90a819d3-9bf0-45f5-b9d6-a992235f3862")
-	)
-	(wire
-		(pts
 			(xy 22.86 128.27) (xy 19.05 128.27)
 		)
 		(stroke
@@ -3148,6 +3286,16 @@
 			(type default)
 		)
 		(uuid "98ba6a72-fa6d-4841-bf7a-56ce148db4cc")
+	)
+	(wire
+		(pts
+			(xy 129.54 35.56) (xy 142.24 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98d7e63c-1cd4-4210-8022-8c9e669672c6")
 	)
 	(wire
 		(pts
@@ -3221,7 +3369,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 60.96) (xy 152.4 83.82)
+			(xy 128.27 60.96) (xy 128.27 83.82)
 		)
 		(stroke
 			(width 0)
@@ -3248,16 +3396,6 @@
 			(type default)
 		)
 		(uuid "b8d588d1-bb66-46bf-a98f-c62210b4e5d4")
-	)
-	(wire
-		(pts
-			(xy 151.13 60.96) (xy 152.4 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9a583f4-f5da-45ee-86f1-ba97757c13f3")
 	)
 	(wire
 		(pts
@@ -3311,13 +3449,23 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 21.59) (xy 72.39 21.59)
+			(xy 67.31 21.59) (xy 68.58 21.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d1d22bb6-0c96-4bd7-b8ce-76adbc9f52e1")
+	)
+	(wire
+		(pts
+			(xy 77.47 38.1) (xy 77.47 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5e60265-7042-4af3-8caa-d3930772f40e")
 	)
 	(wire
 		(pts
@@ -3338,6 +3486,46 @@
 			(type default)
 		)
 		(uuid "dcfccb43-4ee6-4650-8cff-f3eaf1697891")
+	)
+	(wire
+		(pts
+			(xy 151.13 60.96) (xy 173.99 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de073cdc-88a2-4c61-84ab-881c6e29ab0f")
+	)
+	(wire
+		(pts
+			(xy 67.31 38.1) (xy 77.47 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de8ec9f2-9fa6-4e55-9935-7210255dd2b0")
+	)
+	(wire
+		(pts
+			(xy 143.51 25.4) (xy 143.51 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df15694f-2cad-4d7d-9555-b8e1cc917dce")
+	)
+	(wire
+		(pts
+			(xy 123.19 12.7) (xy 123.19 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df414f7d-646a-4707-aea2-f83ddec5c269")
 	)
 	(wire
 		(pts
@@ -3391,7 +3579,17 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 83.82) (xy 152.4 83.82)
+			(xy 123.19 27.94) (xy 129.54 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eba77da6-1be3-46cf-9a0d-1fce5abd96cb")
+	)
+	(wire
+		(pts
+			(xy 62.23 83.82) (xy 128.27 83.82)
 		)
 		(stroke
 			(width 0)
@@ -3824,6 +4022,122 @@
 			(project "LUMISPARK-300X"
 				(path "/0b78d9df-e868-45e5-8498-61d4faedf099"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Potentiometer")
+		(at 139.7 21.59 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "284a471e-88bc-4bd4-8402-c5179d139d79")
+		(property "Reference" "RV3"
+			(at 139.7 15.24 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "500kΩ Potentiometer"
+			(at 139.7 17.78 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm"
+			(at 139.7 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Potentiometer"
+			(at 139.7 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "R"
+			(at 139.7 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "POT"
+			(at 139.7 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=r0 2=wiper 3=r1"
+			(at 139.7 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "124d3c5f-8b3f-4e34-9624-29ba695e35ee")
+		)
+		(pin "3"
+			(uuid "af33d321-36ac-4c24-8864-6a5aca9c6e51")
+		)
+		(pin "1"
+			(uuid "2c21e1b3-c1e8-4569-8064-208f47005b17")
+		)
+		(instances
+			(project "LUMISPARK-300X"
+				(path "/0b78d9df-e868-45e5-8498-61d4faedf099"
+					(reference "RV3")
 					(unit 1)
 				)
 			)
@@ -4310,6 +4624,88 @@
 			(project "LUMISPARK-300X"
 				(path "/0b78d9df-e868-45e5-8498-61d4faedf099"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 129.54 31.75 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e3fd0f2-03d7-48ef-9fcb-98ab424fb36d")
+		(property "Reference" "R_CAL1"
+			(at 132.08 30.4799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7kΩ 1W"
+			(at 132.08 33.0199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
+			(at 127.762 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 129.54 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b49e3d30-9a70-40f3-9bf2-c92c84c5eaf2")
+		)
+		(pin "2"
+			(uuid "ddfa58c2-1c27-473c-9c2d-040f19fb6f72")
+		)
+		(instances
+			(project "LUMISPARK-300X"
+				(path "/0b78d9df-e868-45e5-8498-61d4faedf099"
+					(reference "R_CAL1")
 					(unit 1)
 				)
 			)
