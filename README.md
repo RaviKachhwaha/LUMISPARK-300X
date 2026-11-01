@@ -48,6 +48,15 @@ This is a general pinout
 
 Note :- This image will come after building the board over Zero PCB.
 
+## 3D image of case 
+
+This is a 3D view screenshot of case for board.
+
+| ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/3D_case.jfif) | 
+| --- | 
+
+Note :- I not use 3D printing for case's and not added to BOM list due to the cost is very high but if any one want to get this 3D they will get files in 3D files folder.
+
 (Credits to KiCad EDA for KiCad 10, WeEn Semiconductors for the BT136 TRIAC, SAMWHA for the 450V hold-up capacitor, and Hack Club for funding to make this possible.)
 
 ## Why was it made?  
@@ -71,7 +80,9 @@ It doedn't require any firmware.
 |LED Rope Light 30 Meter |The board is build for this LED lighting so this is needed to test the board is working or not|1       |9.96          |[LED Rope Light](https://www.amazon.in/dp/B0HH3TVCW8)|Amazon India     |
 |Soldering Wire and Flux |To solder the components over the board and flux to make soldering perfect and strong|1       |4.26           |[Soldering Wire with Flux](https://www.amazon.in/VMTRONIX-Solder-Welfix-Soldering-Rosin-Rich/dp/B0D7ZB2H93)| Amazon India     |
 |Wire|Wire is needed to joint the board input to wall plug and the output to the LED input|1       |6.81           |[Wire](https://www.amazon.in/CabONE-Insulated-Electrical-Household-Industrial/dp/B0F2N6WNSW)| Amazon India     |
-| | | Total | 54.10 |
+|MDF Board |MDF Board is needed to make it's case's|1       |2.65           |[MDF Board](https://www.amazon.in/dp/B09PLC82L1)| Amazon India     |
+|Epoxy Resin |This is needed to make it's MDF case's high quality and fully ready and coted for long life of case|1       |4.50           |[Clear Epoxy Resin](https://www.amazon.in/gp/product/B0H62K9LL1)| Amazon India     |
+| | | Total | 61.25 |
 
 LCSC & DigiKey BOM for the components on board is [here](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/components_bom.csv)
 
