@@ -35,7 +35,7 @@ Here are the schematic design,
 - **Zero PCB Hand wireable Topology** - A laid out for single-sided 7.5×10cm prototyping boards with safe 5mm high-voltage creepage spacing.
 - **Precision Dusk Sensitivity Calibration** - The dedicated 500kohm's trimmer potentiometer with a 4.7kΩ safety limiter to enable fine-tuning of the ambient sunset switching thresholds.
 
-### The PCB is 4 layers with dimensions 75.00 x 100.00 mm, made to be easily useable for anyone.  
+### The PCB is Zero PCB with 2 layers (bottom and Top) with dimensions 75.00 x 100.00 mm, made to be easily useable for anyone.  
 
 ### PCB Schematic Design files are [here](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/hardware) 
 
