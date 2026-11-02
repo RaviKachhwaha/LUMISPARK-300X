@@ -52,7 +52,7 @@ Note :- This image will come after building the board over Zero PCB.
 
 This is a 3D view screenshot of case for board.
 
-| ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/3D_case.jfif) | 
+| ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/3D_case..jfif) | 
 | --- | 
 
 Note :- I not use 3D printing for case's and not added to BOM list due to the cost is very high but if any one want to get this 3D they will get files in 3D files folder.
