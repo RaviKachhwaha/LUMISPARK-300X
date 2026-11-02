@@ -52,10 +52,12 @@ Note :- This image will come after building the board over Zero PCB.
 
 This is a 3D view screenshot of case for board.
 
-| ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/3D_case..jfif) | 
+| ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/3D_case.png) | 
 | --- | 
 
 Note :- I not use 3D printing for case's and not added to BOM list due to the cost is very high but if any one want to get this 3D they will get files in 3D files folder.
+
+3D design files are on Onshape [here](https://cad.onshape.com/documents/3162ae1d988daa19885b0bb5/w/f8aedc375001f04fcfb8af69/e/6412ec3de26c3acbdc121c35?renderMode=0&uiState=6ae8ad0b540783f369618e3a)
 
 (Credits to KiCad EDA for KiCad 10, WeEn Semiconductors for the BT136 TRIAC, SAMWHA for the 450V hold-up capacitor, and Hack Club for funding to make this possible.)
 
