@@ -79,13 +79,13 @@ It doedn't require any firmware.
 |----|-----------------|--------|----------------|-------------------|-----------|
 |General Purpose Printed Mini Zero PCB Board |To place every component over it and hand solder them using soldering Iron|1       |1.85           |[Zero PCB](https://www.amazon.in/dp/B0CJJJLB2P)|Amazon India     |
 |Components|Needed components to place over Zero PCB and build the working board|1       |31.22           |[Amazon India](https://www.amazon.in)|Amazon India     |
-|LED Rope Light 50 Meter |The board is build for this LED lighting so this is needed to test the board is working or not|1       |20.10          |[LED Rope Light](https://www.amazon.in/gp/product/B0HFP1593C)|Amazon India     |
+|LED Rope Light 40 Meter |The board is build for this LED lighting so this is needed to test the board is working or not|1       |14.10          |[LED Rope Light](https://www.amazon.in/gp/product/B0B9YMGJF6)|Amazon India     |
 |LED String Light 90 Meter |I will make total 2 board's so to check both and run both boards at same time this second LED is needed|1       |8.50          |[LED String Light](https://www.amazon.in/gp/product/B0DD3PFZKJ)|Amazon India     |
 |Soldering Wire and Flux |To solder the components over the board and flux to make soldering perfect and strong|1       |4.26           |[Soldering Wire with Flux](https://www.amazon.in/VMTRONIX-Solder-Welfix-Soldering-Rosin-Rich/dp/B0D7ZB2H93)| Amazon India     |
 |Wire|Wire is needed to joint the board input to wall plug and the output to the LED input|1       |6.81           |[Wire](https://www.amazon.in/CabONE-Insulated-Electrical-Household-Industrial/dp/B0F2N6WNSW)| Amazon India     |
 |MDF Board |MDF Board is needed to make it's case's|1       |2.65           |[MDF Board](https://www.amazon.in/dp/B09PLC82L1)| Amazon India     |
 |Epoxy Resin |This is needed to make it's MDF case's high quality and fully ready and coted for long life of case|1       |4.50           |[Clear Epoxy Resin](https://www.amazon.in/gp/product/B0H62K9LL1)| Amazon India     |
-| | | Total | 79.89 |
+| | | Total | 73.89 |
 
 LCSC & DigiKey BOM for the components on board is [here](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/components_bom.csv)
 
