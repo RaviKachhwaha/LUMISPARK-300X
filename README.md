@@ -84,8 +84,8 @@ It doedn't require any firmware.
 |Soldering Wire and Flux |To solder the components over the board and flux to make soldering perfect and strong|1       |4.26           |[Soldering Wire with Flux](https://www.amazon.in/VMTRONIX-Solder-Welfix-Soldering-Rosin-Rich/dp/B0D7ZB2H93)| Amazon India     |
 |Wire|Wire is needed to joint the board input to wall plug and the output to the LED input|1       |6.81           |[Wire](https://www.amazon.in/CabONE-Insulated-Electrical-Household-Industrial/dp/B0F2N6WNSW)| Amazon India     |
 |MDF Board |MDF Board is needed to make it's case's|1       |2.65           |[MDF Board](https://www.amazon.in/dp/B09PLC82L1)| Amazon India     |
-|Epoxy Resin |This is needed to make it's MDF case's high quality and fully ready and coted for long life of case|1       |4.50           |[Clear Epoxy Resin](https://www.amazon.in/gp/product/B0H62K9LL1)| Amazon India     |
-| | | Total | 79.00 |
+|Spray Paint |This is needed to make it's MDF case's high quality and fully ready and coted for long life of case|1       |2.50           |[Spray Paint](https://www.amazon.in/gp/product/B096ZNGQSG)| Amazon India     |
+| | | Total | 77.00 |
 
 LCSC & DigiKey BOM for the components on board is [here](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/components_bom.csv)
 
