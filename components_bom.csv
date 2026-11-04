@@ -4,7 +4,7 @@ Item,Designator,Component_Name,Value_Rating,Footprint_Package,Circuit_Qty_Requir
 3,RV1,Metal Oxide Varistor (MOV),07D471K (470V Clamp),Radial Disc 7mm,1,20,155.00,Amazon India,https://www.amazon.in/dp/B094NRZDC8
 4,TH1,Inrush Current Limiting NTC,10D-9 (10 Ohm Cold),Radial Disc 9mm,1,10,119.00,Amazon India,https://www.amazon.in/dp/B0HDCXCSQ5
 5,Q1,Sensitive Gate TRIAC,BT136-600E (4A 600V),TO-220AB Through-Hole,1,5,249.00,Amazon India,https://www.amazon.in/dp/B0G1KM686V
-6,D5,Bidirectional Trigger DIAC,DB3 (32V Vbo / 2A Peak),DO-35 Axial Glass,1,20,125.00,Amazon India,https://www.amazon.in/dp/B0CHQVQWNP
+6,D5,Bidirectional Trigger DIAC,DB3 (32V Vbo / 2A Peak),DO-35 Axial Glass,1,20,209.00,Amazon India,https://www.amazon.in/gp/product/B0GW9BCSS9
 7,RV2,Rotary Potentiometer with Knob,500K Ohm Linear,Round Shaft Panel Mount,1,4,179.00,Amazon India,https://www.amazon.in/dp/B0CPDXQPYK
 8,R1,Carbon Film Resistor,4.7K Ohm 1W (+/-5%),Axial Lead 1W,1,10,189.00,Amazon India,https://www.amazon.in/dp/B0FMXNRL8M
 9,C1,Radial Dipped Film Capacitor,0.1uF 630V (104K),Radial Polyester Film,1,10,109.00,Amazon India,https://www.amazon.in/dp/B0HGMHH1BT
